@@ -1,0 +1,5 @@
+gymnasium
+numpy
+requests
+ipykernel
+python-dotenv>=1.0.0
